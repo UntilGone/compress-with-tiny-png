@@ -1,0 +1,29 @@
+{
+  "name": "compress-with-tiny-png",
+  "version": "0.0.1",
+  "description": "compress images with tiny png api",
+  "main": "upload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EgoTao",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "tinify": "^1.6.0-beta.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UntilGone/compress-with-tiny-png.git"
+  },
+  "keywords": [
+    "compress",
+    "images",
+    "TinyPNG"
+  ],
+  "bugs": {
+    "url": "https://github.com/UntilGone/compress-with-tiny-png/issues"
+  },
+  "homepage": "https://github.com/UntilGone/compress-with-tiny-png#readme"
+}
